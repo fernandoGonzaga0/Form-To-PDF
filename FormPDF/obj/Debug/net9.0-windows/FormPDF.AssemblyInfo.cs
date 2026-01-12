@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FormPDF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d75ae476e5c3a00ddbb55af9c6cae78cdfdce9e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("FormPDF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FormPDF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
