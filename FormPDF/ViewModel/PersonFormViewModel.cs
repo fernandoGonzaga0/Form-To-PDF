@@ -119,7 +119,7 @@ namespace FormPDF.ViewModel
         {
             ExportCommand = new RelayCommand(() =>
             {
-                // mostrando os dados em um MessageBox
+                // mostrando os dados em um MessageBox linkado ao botão Preview, para exibição dos dados que serão levados ao PDF
                 string message = $"Confirm the fields before export:\n\n" +
                                  $"Name: {FirstName}\n" +
                                  $"Last Name: {LastName}\n" +
